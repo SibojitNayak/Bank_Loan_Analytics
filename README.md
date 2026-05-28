@@ -41,6 +41,16 @@ This project analyzes bank loan data to identify lending trends, customer behavi
 - Power BI Dashboard (.pbix)
 - Dataset
 - Dashboard Screenshots
+- ## Dashboard Preview
+
+### Overview Dashboard
+![Overview](image/dashboard_overview.png)
+
+### KPI Dashboard
+![KPI](image/kpi_dashboard.png)
+
+### Loan Trends Dashboard
+![Loan Trends](image/loan_trends.png)
 
 ## Author
 Sibojit Nayak
